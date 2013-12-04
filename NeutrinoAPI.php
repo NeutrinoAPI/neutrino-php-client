@@ -1,13 +1,17 @@
 <?php
-
 /**
- * 
- *
+ * A PHP client for Neutrino API
+ * See: http://www.neutrinoapi.com
+ * This class currently only covers our most popular APIs (but feel free to add more if you find this class useful!)
  */
 class NeutrinoAPI 
 {
-    private $apiUser = 'test_user_1578'; // set your user-id
-    private $apiKey = 'W6du2QO2wXItdjdvQh9W8oEvssfZZKQN'; // set your api-key
+    // set your actual user-id here (however you can use this one for basic testing)
+    private $apiUser = 'test_user_1578'; 
+    
+    // set your actual api-key here
+    private $apiKey = 'W6du2QO2wXItdjdvQh9W8oEvssfZZKQN'; 
+    
     
     const API_BASE_URL = 'https://neutrinoapi.com/';
     const DEFAULT_REQUEST_TIMEOUT = 10; // default API request timeout in seconds
