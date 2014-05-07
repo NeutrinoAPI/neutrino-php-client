@@ -3,9 +3,9 @@ neutrino-php-client
 
 A PHP client for Neutrino API
 
-http://www.neutrinoapi.com
+https://www.neutrinoapi.com
 
-For the comprehensive API documentation please see: http://www.neutrinoapi.com/api/api-basics
+For the comprehensive API documentation please see: https://www.neutrinoapi.com/api/
 
 **Examples:**
 
