@@ -1,7 +1,6 @@
 <?php
 /**
- * A PHP client for Neutrino API
- * See: http://www.neutrinoapi.com
+ * A PHP client for Neutrino API, see: https://www.neutrinoapi.com
  * This class currently does not cover ALL of the APIs (but feel free to add more if you find this useful!)
  */
 class NeutrinoAPI 
