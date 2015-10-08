@@ -2,6 +2,7 @@ neutrino-php-client
 ===================
 
 A PHP client for Neutrino API [ https://www.neutrinoapi.com ]
+
 For the comprehensive API documentation see: https://www.neutrinoapi.com/api/
 
 **Examples:**
