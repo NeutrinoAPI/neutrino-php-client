@@ -1,7 +1,8 @@
 neutrino-php-client
 ===================
+NOTICE: This client has been replaced with: https://github.com/NeutrinoAPI/NeutrinoAPI-PHP 
 
-A PHP client for Neutrino API [ https://www.neutrinoapi.com ]
+A PHP client for Neutrino API: https://www.neutrinoapi.com
 
 For the comprehensive API documentation see: https://www.neutrinoapi.com/api/
 
